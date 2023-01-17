@@ -1,15 +1,53 @@
-            
-   # Fileheimer scanner
-  🔹 마인크래프트 서버 스캐너 
-  
-  🔹 플레이어 트래커  
-  
-  🔹 매일 추가되는 서버와 플레이어 기록 
-  
-  🔹 쉽게 사용가능한 디스코드 봇 
-  
-  🔹 무료와 유료버전 존재 
-  
-   https://discord.gg/vPk3fQhP6C
-   
-   ![scanner](https://user-images.githubusercontent.com/88542418/212658454-940e9d57-ef25-4d2e-9c43-fd5be2fd0e08.png)
+# **Fileheimer**  
+## what is Fileheimer?  
+- discord bot to search minecraft server like copenheimer  
+## how can I use it?
+- use join our discord join discord now!  [click here](https://discord.gg/mz6UgpXb63)  
+## advantages of Fileheimer
+
+
+  :small_blue_diamond: minecraft scanner  
+  :small_blue_diamond: player tracker  
+  :small_blue_diamond: servers and players history add daily  
+  :small_blue_diamond: easy to use discord bot  
+  :small_blue_diamond: free and paid version available  
+  :small_blue_diamond: you don't have to run scanner or bot, just join discord  
+## price
+- **1.5$ per month  20$ for lifetime**  
+
+# **flags**
+* ip: Server's ip.
+* p/port: Numbers between 1 and 25565
+
+* v/version: Server's version (1.18.2, paper, etc)
+* pr/protocol: Server protocol
+
+*  o/online: Number of players at last scan
+* c/capacity: Max player count
+
+* d/description: MOTD of server
+*  r/recent: Servers added or scanned in the past hour.
+
+* t/type: 0 = Vanilla, 1 = Plugin, 2 = Modded, 3 Cracked
+
+* l/loc/location: Location of server
+* i/isp/provider/asn: Service provider name or ASN
+
+*  rand/random: returns random server
+
+```t
+![text] : search except [text]  
+[text1], [text2] : search including [text1], [text2]  
+< or > [number]
+```
+# **examples**  
+```t
+$s -ip 123.123.123.123  
+$s -ip 123.123.123.123 -p > 25565  
+$s -v 1.18.2  
+$s -l !china  
+$s -l korea  
+$s -o > 10  
+$s -d text  
+$s -t !2
+```  

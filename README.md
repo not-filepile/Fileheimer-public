@@ -11,9 +11,6 @@
   :small_blue_diamond: free and paid version available  
   :small_blue_diamond: you don't have to run scanner or bot, just join discord  
   <img width="332" alt="무제 2" src="https://user-images.githubusercontent.com/88542418/212837646-4a64317a-cd53-4012-8144-6931e734544a.png">
-## price
-- **1.5$ per month  20$ for lifetime**  
-- also free version is available
 
 # **flags**
 * ip: Server's ip.
